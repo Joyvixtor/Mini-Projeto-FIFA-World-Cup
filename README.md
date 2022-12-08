@@ -1,4 +1,4 @@
-# Mini-Projeto-FIFA-World-Cup
+# Mini-Projeto FIFA World Cup
 Mini-projeto criado para trabalhar em cima dos dados fornecidos pela FIFA das equipes que jogaram o mundial de 2006, 2010, 2014 e 2018.
 
 ## Instruções de uso
